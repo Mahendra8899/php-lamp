@@ -1,7 +1,7 @@
 <?php
 
 function Createdb(){
-    $servername = "finaldb.crm8aozg3zmw.us-east-1.rds.amazonaws.com";
+    $servername = "database-1.cpkhue2lzzfo.us-west-1.rds.amazonaws.com";
     $username = "admin";
     $password = "admin123";
     $dbname = "bookstore";
